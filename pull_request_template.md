@@ -1,4 +1,4 @@
-# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/MINT_ADDRES_HERE)
+# Validate [UCIT](https://solscan.io/token/HH8bchogQD71iuLghP4cuvSU7vsGJoMJDBxvWTFu7MpA)
 
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/YOUR_ACCOUNT_NAME_HERE/status/YOUR_TWEET_ID_HERE
